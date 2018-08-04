@@ -1,4 +1,4 @@
-# Taco Maker#
+# Taco Maker
 
 This a text-based Python game developed to help learn the Python language. It is my first project in Python; and while things may not be done the most efficient way, it was a good learning experience.
 
